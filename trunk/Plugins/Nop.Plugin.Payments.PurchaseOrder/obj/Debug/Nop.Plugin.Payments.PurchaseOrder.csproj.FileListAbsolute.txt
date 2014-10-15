@@ -1,0 +1,11 @@
+E:\Projects\MVC5\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\Views\PaymentPurchaseOrder\Configure.cshtml
+E:\Projects\MVC5\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\Views\PaymentPurchaseOrder\PaymentInfo.cshtml
+E:\Projects\MVC5\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\web.config
+E:\Projects\MVC5\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\Description.txt
+E:\Projects\MVC5\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\logo.jpg
+E:\Projects\MVC5\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\Nop.Plugin.Payments.PurchaseOrder.dll.config
+E:\Projects\MVC5\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\Nop.Plugin.Payments.PurchaseOrder.dll
+E:\Projects\MVC5\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\Nop.Plugin.Payments.PurchaseOrder.pdb
+E:\Projects\MVC5\Plugins\Nop.Plugin.Payments.PurchaseOrder\obj\Debug\Nop.Plugin.Payments.PurchaseOrder.csprojResolveAssemblyReference.cache
+E:\Projects\MVC5\Plugins\Nop.Plugin.Payments.PurchaseOrder\obj\Debug\Nop.Plugin.Payments.PurchaseOrder.dll
+E:\Projects\MVC5\Plugins\Nop.Plugin.Payments.PurchaseOrder\obj\Debug\Nop.Plugin.Payments.PurchaseOrder.pdb
