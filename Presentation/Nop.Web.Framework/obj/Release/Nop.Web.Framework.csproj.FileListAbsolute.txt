@@ -1,0 +1,1 @@
+E:\Projects\MVC5\Presentation\Nop.Web.Framework\obj\Release\Nop.Web.Framework.csprojResolveAssemblyReference.cache

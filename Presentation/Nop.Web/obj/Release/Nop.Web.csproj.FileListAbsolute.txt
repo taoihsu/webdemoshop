@@ -1,0 +1,2 @@
+E:\Projects\MVC5\Presentation\Nop.Web\obj\Release\Nop.Web.csproj.App.config
+E:\Projects\MVC5\Presentation\Nop.Web\obj\Release\Nop.Web.csprojResolveAssemblyReference.cache
