@@ -1,0 +1,11 @@
+E:\Projects\MVC5\Presentation\Nop.Web\Plugins\Payments.CashOnDelivery\Views\PaymentCashOnDelivery\Configure.cshtml
+E:\Projects\MVC5\Presentation\Nop.Web\Plugins\Payments.CashOnDelivery\Views\PaymentCashOnDelivery\PaymentInfo.cshtml
+E:\Projects\MVC5\Presentation\Nop.Web\Plugins\Payments.CashOnDelivery\Description.txt
+E:\Projects\MVC5\Presentation\Nop.Web\Plugins\Payments.CashOnDelivery\web.config
+E:\Projects\MVC5\Presentation\Nop.Web\Plugins\Payments.CashOnDelivery\logo.jpg
+E:\Projects\MVC5\Presentation\Nop.Web\Plugins\Payments.CashOnDelivery\logo2.jpg
+E:\Projects\MVC5\Presentation\Nop.Web\Plugins\Payments.CashOnDelivery\Nop.Plugin.Payments.CashOnDelivery.dll.config
+E:\Projects\MVC5\Presentation\Nop.Web\Plugins\Payments.CashOnDelivery\Nop.Plugin.Payments.CashOnDelivery.dll
+E:\Projects\MVC5\Presentation\Nop.Web\Plugins\Payments.CashOnDelivery\Nop.Plugin.Payments.CashOnDelivery.pdb
+E:\Projects\MVC5\Plugins\Nop.Plugin.Payments.CashOnDelivery\obj\Debug\Nop.Plugin.Payments.CashOnDelivery.dll
+E:\Projects\MVC5\Plugins\Nop.Plugin.Payments.CashOnDelivery\obj\Debug\Nop.Plugin.Payments.CashOnDelivery.pdb
