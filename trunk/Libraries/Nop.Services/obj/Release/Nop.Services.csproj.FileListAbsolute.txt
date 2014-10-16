@@ -1,3 +1,0 @@
-E:\Projects\MVC5\Libraries\Nop.Services\obj\Release\Nop.Services.csprojResolveAssemblyReference.cache
-E:\Projects\MVC5\Libraries\Nop.Services\obj\Release\Nop.Services.dll
-E:\Projects\MVC5\Libraries\Nop.Services\obj\Release\Nop.Services.pdb
