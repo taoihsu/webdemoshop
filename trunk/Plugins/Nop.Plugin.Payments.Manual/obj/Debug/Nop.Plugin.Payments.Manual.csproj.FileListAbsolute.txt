@@ -1,0 +1,11 @@
+E:\Projects\MVC5\Presentation\Nop.Web\Plugins\Payments.Manual\Views\PaymentManual\Configure.cshtml
+E:\Projects\MVC5\Presentation\Nop.Web\Plugins\Payments.Manual\Views\PaymentManual\PaymentInfo.cshtml
+E:\Projects\MVC5\Presentation\Nop.Web\Plugins\Payments.Manual\Description.txt
+E:\Projects\MVC5\Presentation\Nop.Web\Plugins\Payments.Manual\web.config
+E:\Projects\MVC5\Presentation\Nop.Web\Plugins\Payments.Manual\logo.jpg
+E:\Projects\MVC5\Presentation\Nop.Web\Plugins\Payments.Manual\Nop.Plugin.Payments.Manual.dll.config
+E:\Projects\MVC5\Presentation\Nop.Web\Plugins\Payments.Manual\Nop.Plugin.Payments.Manual.dll
+E:\Projects\MVC5\Presentation\Nop.Web\Plugins\Payments.Manual\Nop.Plugin.Payments.Manual.pdb
+E:\Projects\MVC5\Plugins\Nop.Plugin.Payments.Manual\obj\Debug\Nop.Plugin.Payments.Manual.csprojResolveAssemblyReference.cache
+E:\Projects\MVC5\Plugins\Nop.Plugin.Payments.Manual\obj\Debug\Nop.Plugin.Payments.Manual.dll
+E:\Projects\MVC5\Plugins\Nop.Plugin.Payments.Manual\obj\Debug\Nop.Plugin.Payments.Manual.pdb
